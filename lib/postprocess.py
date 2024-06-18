@@ -44,5 +44,4 @@ def post_process(category):
 # # Example usage
 # input_category = "Transa ctionFa ile ure"
 # processed_category = post_process(input_category)
-# print(processed_category) 
-
+# print(processed_category)
